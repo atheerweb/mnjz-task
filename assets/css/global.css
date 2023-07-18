@@ -2,7 +2,10 @@
     font-family: "Tajawal" !important;
     direction: rtl;
 }
-
+a{
+    text-decoration: none;
+    color: black;
+}
 
 
 @font-face {
